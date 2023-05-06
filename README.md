@@ -2,7 +2,7 @@
 ##### {My first independent project on the go as I learn RPA}, {April 2023}
 #### By **{Joseph Kihurani}**
 ## Description
-{This is a landing page for my programming portfolio. This is my first practice at the game of creating webpages and online presence, and with increasing practice over time hope to sharpen my skills.  As a result this intial page will be quite simplistic to a webpage guru but with baby steps will eventually grow and shine pretty well with more products. }
+{This is a landing page for my programming portfolio. This is my first practice at the game of creating webpages and online presence, and with increasing practice over time hope to sharpen my skills.  As a result this intial page will be quite simplistic to a webpage guru but with baby steps will eventually grow and shine pretty well with more practice. }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
