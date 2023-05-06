@@ -1,8 +1,8 @@
 # Portfolio-Landing-Page
-#### {My first independent project on the go as I learn RPA}, {April 2023}
+##### {My first independent project on the go as I learn RPA}, {April 2023}
 #### By **{Joseph Kihurani}**
 ## Description
-{This is a detailed description of your application, including its purpose and usage.  Give as much detail as needed to explain what the application does, and any other information you want users or other developers to have. }
+{This is a landing page for my programming portfolio. This is my first practice at the game of creating webpages and online presence, and with increasing practice over time hope to sharpen my skills.  As a result this intial page will be quite simplistic to a webpage guru but with baby steps will eventually grow and shine pretty well with more products. }
 ## Setup/Installation Requirements
 * This is a great place
 * to list setup instructions
@@ -15,7 +15,9 @@
 ## Technologies Used
 {Tell me about the languages and tools you used to create this app. Assume that I know you probably used HTML and CSS. If you did something really cool using only HTML, point that out.}
 ## Support and contact details
-{Let people know what to do if they run into any issues or have questions, ideas or concerns.  Encourage them to contact you or make a contribution to the code.}
+* Feel free to pull the code, improve on it and republish
+* In case of any other issues
+* email : joseph.kihurani@student.moringaschool.com
 ### License
 *{Determine the license under which this application can be used.  See below for more details on licensing.}*
 Copyright (c) {year} **{List of contributors or company name}**
