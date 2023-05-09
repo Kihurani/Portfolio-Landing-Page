@@ -1,0 +1,11 @@
+ul,li {
+    text-align: left;
+}
+h3 {
+    color: rgb(63, 22, 22);
+}
+nav {
+    font-size: small;
+    font-family: Georgia;
+    font-style: inherit;
+}
