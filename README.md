@@ -18,6 +18,6 @@ I've used HTML only. As I add more languages and tools, I'll update this README 
 * In case of any other issues
 * email : joseph.kihurani@student.moringaschool.com
 ### License
-MIT ©
+MIT © [Joseph Kihurani] (https://github.com/Kihurani)
 Copyright (c) {2023} **{List of contributors or company name}**
 J4J and jkihurani are not the sole owner and distributor of this README and anyone can personalize their own version without using the name of the owner of this repo
