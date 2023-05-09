@@ -8,9 +8,9 @@
 * Click on the provided link
 * This first README is running from GitHub
 * There are additional links on the page to my other GitHub account pages 
-* Links to my websites will be added on the go
+* Links to my personal or any other websites will be added on the go
 ## Known Bugs
-There is a dummy link at the top. this is purely for fun in anticipation of my real website link later on
+There is a dummy link at the top. This is purely for fun in anticipation of my real website link later on
 ## Technologies Used
 I've used HTML only. As I add more languages and tools, I'll update this README :-)
 ## Support and contact details
