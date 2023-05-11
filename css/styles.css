@@ -5,7 +5,7 @@ h1 {
 body {
     text-align: left;
     background-color: rgb(214, 156, 133);
-    background-color: rgb(96, 107, 212);
+  
 }
 
 h6 {
@@ -28,11 +28,21 @@ h3.intro {
     background-color: rgb(145, 59, 148);
 } 
 .kwanza {
+    word-wrap: break-word;
     background-color: antiquewhite;
+    width: 700px;
+    float: left;
+    margin: 10px;
 }
 .lapili {
+    word-wrap: break-word;
     background-color: rgb(214, 156, 133);
+    width: 700px;
+    float: inline-end;
+    margin: 10px;
 }
 img {
+    width: 25%;
     float: inherit;
+    background-color: yellow;
 }
