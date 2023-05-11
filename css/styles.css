@@ -7,9 +7,7 @@ body {
     background-color: rgb(214, 156, 133);
     background-color: rgb(96, 107, 212);
 }
-li {
-    text-align: right;
-}
+
 h6 {
     font-size: medium;
 }
@@ -22,4 +20,19 @@ h3.intro {
 }
 .content {
     text-decoration: underline;
+}
+.tophalf {
+    background-color: green;
+}
+.bottomhalf {
+    background-color: rgb(145, 59, 148);
+} 
+.mita {
+    background-color: antiquewhite;
+}
+.kumi {
+    background-color: rgb(214, 156, 133);
+}
+img {
+    float: right;
 }
