@@ -20,3 +20,6 @@ h6 {
 h3.intro {
     font-size: large;
 }
+.content {
+    text-decoration: underline;
+}
